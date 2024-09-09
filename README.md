@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Filipp 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Self-studying programming in Russia ??</h3>
 
 <!--
 **MyLord916/MyLord916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
