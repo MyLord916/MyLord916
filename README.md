@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Filip</h2>
+<h2 align="center">Hi there, I'm Filipp</h2>
 <h5 align="center">Self-studying programming in Russia 🇷🇺</h5>
 
 **Languages and Tools:**
