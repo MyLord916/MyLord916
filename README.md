@@ -6,10 +6,7 @@
 <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='Python'/>
 <img src='https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green'/>
 <p/>
-  
-**LeetCode stats:**
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
 <!--
 **MyLord916/MyLord916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
